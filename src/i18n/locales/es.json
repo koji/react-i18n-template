@@ -1,0 +1,16 @@
+{
+  "welcome": {
+    "title": "Bienvenido a React i18n",
+    "description": "Esta es una plantilla para React con soporte i18n"
+  },
+  "language": {
+    "select": "Seleccionar Idioma",
+    "en": "Inglés",
+    "es": "Español",
+    "zh": "Chino",
+    "ko": "Coreano",
+    "ar": "Árabe",
+    "fr": "Francés",
+    "ja": "Japonés"
+  }
+}

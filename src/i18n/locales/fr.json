@@ -1,0 +1,16 @@
+{
+  "welcome": {
+    "title": "Bienvenue sur React i18n",
+    "description": "Ceci est un modèle React avec support i18n"
+  },
+  "language": {
+    "select": "Sélectionner la langue",
+    "en": "Anglais",
+    "es": "Espagnol",
+    "zh": "Chinois",
+    "ko": "Coréen",
+    "ar": "Arabe",
+    "fr": "Français",
+    "ja": "Japonais"
+  }
+}

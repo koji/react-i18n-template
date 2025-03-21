@@ -1,0 +1,16 @@
+{
+  "welcome": {
+    "title": "Welcome to React i18n",
+    "description": "This is a template for React with i18n support"
+  },
+  "language": {
+    "select": "Select Language",
+    "en": "English",
+    "es": "Spanish",
+    "zh": "Chinese",
+    "ko": "Korean",
+    "ar": "Arabic",
+    "fr": "French",
+    "ja": "Japanese"
+  }
+}

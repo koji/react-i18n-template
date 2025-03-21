@@ -1,0 +1,16 @@
+{
+  "welcome": {
+    "title": "欢迎使用 React i18n",
+    "description": "这是一个支持 i18n 的 React 模板"
+  },
+  "language": {
+    "select": "选择语言",
+    "en": "英语",
+    "es": "西班牙语",
+    "zh": "中文",
+    "ko": "韩语",
+    "ar": "阿拉伯语",
+    "fr": "法语",
+    "ja": "日语"
+  }
+}
