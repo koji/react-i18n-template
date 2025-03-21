@@ -25,6 +25,11 @@ This is a template for a React application with i18n (internationalization) supp
 *   French (fr)
 *   Japanese (ja)
 
+
+![Image](https://github.com/user-attachments/assets/020087e2-5931-4ee1-898e-361359128fe4)
+![Image](https://github.com/user-attachments/assets/5721397f-87e3-4c76-8b24-128b72b6e52b)
+![Image](https://github.com/user-attachments/assets/a3ff0afb-d51f-46a0-ae8e-fa34e640239b)
+
 ## Scripts
 
 *   `dev`: Runs the development server using Vite.
